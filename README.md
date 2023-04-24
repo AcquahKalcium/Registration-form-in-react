@@ -1,5 +1,5 @@
 # Registration-form-in-react
-controlled  input registration form in react
+Controlled Input Registration Form In React. 
 
 The form layout and styling is already predefined for you. You have to add the missing pieces of code to make the form work as per the requirements.
 The form is provided in an uncontrolled fashion and contains the following inputs:
